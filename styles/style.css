@@ -100,6 +100,7 @@ font-size: 18px;
 .cover__description-text {
   z-index: 1;
   color: #fff;
+  font-family: Railway, sans-serif;
   font-size: 22px;
   text-transform: uppercase;
   word-spacing: 18px;
@@ -131,7 +132,6 @@ margin-top: 180px;
   font-size: 40px;  
   text-transform: uppercase;
 }
-
 
 .lots__card-list {
   display: flex;
@@ -174,12 +174,12 @@ margin-top: 180px;
 .card__text {
   z-index: 1;
   color: #fff;
+  font-family: Railway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;
   text-decoration: none;
 }
-
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
