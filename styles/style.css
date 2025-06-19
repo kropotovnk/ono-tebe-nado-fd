@@ -34,7 +34,7 @@ font-size: 18px;
   justify-self: end;
   max-width: 240px;
   padding-left: 2px;
-  font-family: inherit;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   line-height: 25px;
@@ -45,7 +45,7 @@ font-size: 18px;
 }
 
 .header__address {
-  font-family: inherit;
+  font-family: Raleway, sans-serif;
   font-style: normal;
 }
 
