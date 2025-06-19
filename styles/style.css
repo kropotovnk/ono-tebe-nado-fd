@@ -10,7 +10,7 @@
 
 .header__links-list {
 display: flex;
-gap: 33px; 
+gap: 33px;
 font-size: 18px;
 }
 
@@ -132,7 +132,7 @@ margin-bottom: 120px;
   padding: 0 0 27px 40px;
   font-family: Raleway, sans-serif;
   font-weight: 700;
-  font-size: 40px;  
+  font-size: 40px;
   text-transform: uppercase;
 }
 
@@ -233,7 +233,7 @@ margin-bottom: 120px;
 
 .logo__circle {
   max-width: 148px;
-  padding-top: 3px; 
+  padding-top: 3px;
 }
 
 .about__title {
