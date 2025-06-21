@@ -141,7 +141,8 @@ margin-bottom: 120px;
 .lots__card-list {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: left;
   gap: 25px;
   list-style: none;
 }
@@ -223,7 +224,6 @@ margin-bottom: 120px;
 
 .about__logo {
   width: 334px;
-  min-height: 595px;
   padding: 35px 0 0 47px;
 }
 
@@ -272,7 +272,7 @@ font-size: 20px;
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  padding: 0 50px;
+  padding: 0 50px 80px;
 }
 
 .footer__social-list {
